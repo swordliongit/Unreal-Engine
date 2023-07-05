@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "Blueprints",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Blueprints",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "Actors and Pawns",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"Actors and Pawns\"",
+      "color": {
+        "a": 1,
+        "rgb": 12767932
+      }
+    },
+    {
+      "query": "C++",
+      "color": {
+        "a": 1,
+        "rgb": 11752160
+      }
+    },
+    {
+      "query": "path:C++",
+      "color": {
+        "a": 1,
+        "rgb": 14701269
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.270833333333333,
+  "repelStrength": 9.89583333333333,
+  "linkStrength": 0.614583333333333,
+  "linkDistance": 302,
+  "scale": 0.7493026477832203,
+  "close": true
+}

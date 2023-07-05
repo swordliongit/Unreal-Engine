@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "46a5d3313ca6153c",
+    "type": "split",
+    "children": [
+      {
+        "id": "06b625d88789bc8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c63b5552cbd3dc6e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "5e864954d552074b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/Vectors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7e1b91bf8c078ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "45144cccbb89f1d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb99c2b587ec4790",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a443838c98bd021",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "548c7bb143ecf9b4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2cfc367cf9f1952c",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb0661a5816fd54e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a52c5c426ff0429",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8ad1adc0ab8081df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ff98cabe1c74ece",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7d9b614bad1e1e9f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c63b5552cbd3dc6e",
+  "lastOpenFiles": [
+    "C++/Vectors.md",
+    "C++/Untitled.md",
+    "C++/Actor Location.md",
+    "C++/C++.md",
+    "C++/Normalized Vectors.md",
+    "C++/Placing Variables Under Certain Categories.md",
+    "C++/Distance Between Two Points.md",
+    "C++/Variables in Editor - UPROPERTY.md",
+    "C++/Making Variables View Only.md",
+    "C++/Screenshot 2023-06-26 233819.png",
+    "Actors and Pawns/Actors and Pawns.md",
+    "C++/Frame Rate Independent Game.md",
+    "Screenshot 2023-06-18 191738.png",
+    "Game Loop.md",
+    "Useful Information.md",
+    "C++",
+    "Change Default Source Code Editor.md",
+    "Custom Player Start Model.md",
+    "Actors and Pawns/How to Aim Projectiles.md",
+    "Actors and Pawns/How to Eject From the Player.md",
+    "Actors and Pawns",
+    "Blueprints/Blueprints.md",
+    "Blueprints/Variables.md",
+    "Blueprints/Useful Physics Functions.md",
+    "Blueprints/Useful Debug Functions.md",
+    "Blueprints/Spawning Actors.md",
+    "Blueprints",
+    "Blueprints/Pure Functions.md"
+  ]
+}

@@ -1,0 +1,1 @@
+Edit -> Editor Preferences -> General -> Source Code -> change your editor and restart
